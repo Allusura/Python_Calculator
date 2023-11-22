@@ -1,3 +1,6 @@
+#Author: Allusura
+#A simple Python Calculator I made after 10 days of studying the language.
+
 from art import logo
 import os
 
